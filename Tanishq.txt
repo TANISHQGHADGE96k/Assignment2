@@ -1,1 +1,2 @@
 My first project file.
+This is an added line.
